@@ -1,1 +1,3 @@
-desarrollo1 comentario1
+Final combinado de ambos:
+Punto 4 escribir finales y generar conflictos persona A
+4.1 Persona A añade un final único en el fichero historia.txt
